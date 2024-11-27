@@ -1,7 +1,12 @@
 table{
-    border: 1px solid goldenrod;
-background-image: url(emoji.jpg);
-font-family: 'Times New Roman', Times, serif;
-background-color: aquamarine;
-width: 5px;
+border: 1px;background-color: aqua;
 }
+tr, th, td{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.hidden-cell{
+    visibility: hidden;
+}
+
+
