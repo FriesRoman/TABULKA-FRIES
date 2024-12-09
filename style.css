@@ -1,0 +1,52 @@
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    border: 2px solid black;
+}
+
+
+table td {
+    height: 50px; 
+    font-size: 20px; 
+    text-align: center; 
+    padding: 10px; 
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center; 
+    font-size: 32px; 
+}
+
+.alkalicke_kovy {
+    background-color: #FFBABA;
+}
+
+.kovy-alkalickych-zemin {
+    background-color: #FFD59A; 
+}
+
+.prechodne-kovy {
+    background-color: #E6BEFF;
+}
+
+.kovy {
+    background-color: #FFC5E0; 
+}
+
+.polokovy {
+    background-color: #D5E8D4;
+}
+
+.nekovy {
+    background-color: #B3E5FC; 
+}
+
+.halogeny {
+    background-color: #C5CAE9; 
+}
+
+.vzacne-plyny {
+    background-color: #FFECB3; 
+}
+
