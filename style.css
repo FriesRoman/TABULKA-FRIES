@@ -1,33 +1,67 @@
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    height: 50px; 
+    font-size: 20px; 
+    text-align: center; 
+    padding: 10px; 
+    border: 1px solid black;
 
-.alkalicke_kovy {
-    background-color: #cd1c1c; 
 }
 
-.kovy-alkalickych_zemin {
-    background-color: #ff9100; 
+h1 {
+    text-align: center; 
+    font-size: 32px; 
+}
+
+.alkalicke_kovy {
+    background-color: #FFBABA;
+
+}
+
+.kovy-alkalickych-zemin {
+    background-color: #FFD59A; 
 }
 
 .prechodne-kovy {
-    background-color: violet; 
+    background-color: #E6BEFF;
 }
 
 .kovy {
-    background-color: blue; 
+    background-color: #FFC5E0; 
 }
 
 .polokovy {
-    background-color: #98fbe4; 
+    background-color: #D5E8D4;
 }
 
 .nekovy {
-    background-color: #c5ee90; 
+    background-color: #B3E5FC; 
 }
 
 .halogeny {
-    background-color: darkcyan 
+    background-color: #C5CAE9; 
 }
 
 .vzacne-plyny {
-    background-color: #e4eb87; 
+    background-color: #FFECB3; 
 }
+
+.lanthanoidy {
+    background-color: white;
+}
+.aktinoidy {
+    background-color: whitesmoke;  
+}
+   
+.prazdne {
+    empty-cells: hide;
+    border: none
+}
+
+
+
 
